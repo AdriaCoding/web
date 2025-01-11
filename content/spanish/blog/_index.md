@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Artículos"
+meta_title: "hola"
+description: "página principal del blog"
 ---
