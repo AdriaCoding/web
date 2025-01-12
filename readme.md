@@ -11,3 +11,5 @@ npm run dev
 - [ ] Mirar bé el tema de multilingual. Canviar el `defaultContentLanguage` a espanyol.
 
 - [ ] Mirar el tema dels comentaris al blog. Hi ha la configuració `[services.disqus]` al respecte, en el `hugo.toml`.
+
+- [] Crear el primer post.
