@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "I'm Adrià Lisa"
-  content: "A trained mathematician and software engineer wannabe."
+  title: "El Sitio Web de Adrià"
+  content: "Programación "
   image: "/images/banner.png"
   button:
     enable: false

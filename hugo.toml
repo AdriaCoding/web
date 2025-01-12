@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://adriacoding.github.io/"
+baseURL = "https://www.adrialisa.dev/"
 # Title of your website (required).
 title = "Adria Lisa | Website"
 # Your theme name
