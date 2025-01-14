@@ -78,6 +78,11 @@ target = '$1'
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 
+############################ Taxonomies ############################
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 ############################# Imaging ############################
 [imaging]
 # See https://github.com/disintegration/imaging
