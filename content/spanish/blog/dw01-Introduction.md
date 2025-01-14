@@ -1,15 +1,22 @@
 ---
-title: "01 - Introductionpppp"
-date: 2023-10-01
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+title: "01 - Introduction"
+date: 2025-01-14
+meta_title: "Resumen del primer tema de la asignatura data warehousing"
+description: "Resumen del primer tema de la asignatura data warehousing and on-line analytical processing (OLAP)."
 image: "/images/image-placeholder.png"
 categories: ["Data Warehousing"]
-author: "Adrià Lisa"
 tags: ["Pepe"]
 draft: false
 
 ---
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-holap
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Creative Design
+
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
