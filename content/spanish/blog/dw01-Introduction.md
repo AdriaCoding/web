@@ -1,22 +1,14 @@
 ---
 title: "01 - Introduction"
-date: 2025-01-14
-meta_title: "Resumen del primer tema de la asignatura data warehousing"
-description: "Resumen del primer tema de la asignatura data warehousing and on-line analytical processing (OLAP)."
-image: "/images/image-placeholder.png"
+date: 2025-01-15
+meta_title: "Summary of the first topic of the subject Data Warehouseing"
+description: "Summary of the first topic of the MIRI subject Data Warehousing and On-Line Analytical Processing (OLAP)."
+
+image: "/images/datawarehouse.jpg"
 categories: ["Data Warehousing"]
-tags: ["Pepe"]
+tags: ["Lecture Notes"]
 draft: false
 
 ---
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+alo presidenteA7IJ9N74YCGS9
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
