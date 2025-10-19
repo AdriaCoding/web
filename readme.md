@@ -13,4 +13,4 @@ npm run dev
 - [ ] Mirar el tema dels comentaris al blog. Hi ha la configuració `[services.disqus]` al respecte, en el `hugo.toml`.
 
 - [x] Crear el primer post.
-- [ ] Fer els 9 posts sobre data warehousing.
+- [ ] Juntar els posts sobre Data Warehousing.
